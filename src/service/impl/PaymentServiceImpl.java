@@ -3,7 +3,7 @@ package service.impl;
 import entity.Cart;
 import entity.Customer;
 import entity.OrderItem;
-import entity.exception.InsufficientBalanceExceptionError;
+import exception.InsufficientBalanceExceptionError;
 import service.PaymentService;
 import service.ShippingService;
 import utility.ShippableAndExpirableProduct;

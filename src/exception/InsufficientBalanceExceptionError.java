@@ -1,4 +1,4 @@
-package entity.exception;
+package exception;
 
 public class InsufficientBalanceExceptionError extends RuntimeException{
 
